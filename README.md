@@ -23,7 +23,7 @@ Moduł BT: HC-05
 
 Wyjście LED podłączone do PB0 procesora,
 Pin RXD podłączony do pinu TXD procesora,
-Pin TXD podłączony do pinu RXD procesora,
+Pin TXD podłączony do pinu RXD procesora
 
 Przyjmując następujące określenia:
 
