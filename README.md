@@ -21,11 +21,12 @@ Filtrowanie zasilania przetwornika ADC (AREF=VCC)
 
 Moduł BT: HC-05
 
-Wyjście LED podłączone do PB0 procesora
-Pin RXD podłączony do pinu TXD procesora
-Pin TXD podłączony do pinu RXD procesora
+Wyjście LED podłączone do PB0 procesora,
+Pin RXD podłączony do pinu TXD procesora,
+Pin TXD podłączony do pinu RXD procesora,
 
 Przyjmując następujące określenia:
+
 Część sterująca- wejścia podłączone do tranzystorów, określające kierunek obrotów silnika
 Część zasilająca- wyjście, które zasilone wprawia silnik w ruch
 
