@@ -15,10 +15,12 @@ Samochodzik skręca podobnie do czołgow
 Założenia konstrukcyjne:
 
 uC: Atmega88PA
+
 Taktowanie zewn. oscylatorem 7.3728MHz,
 Filtrowanie zasilania przetwornika ADC (AREF=VCC)
 
 Moduł BT: HC-05
+
 Wyjście LED podłączone do PB0 procesora
 Pin RXD podłączony do pinu TXD procesora
 Pin TXD podłączony do pinu RXD procesora
