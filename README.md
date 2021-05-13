@@ -3,10 +3,10 @@
 Program do sterowania zdalnego samochodzikiem wyposazonego w 3 czujniki analogowe
 Szczegołowe załozenia konstrukcyjne znajdują sie poniżej
  
-Samochodzik jest sterowany zdalnie przez bluetooth, przez cyfrowe urządzenie streujące
-urządzenie sterujące przetwarza dane z czujnikow, samochodzik je tylko wysyła
+Samochodzik jest sterowany zdalnie przez bluetooth, przez cyfrowe urządzenie streujące.
+Urządzenie sterujące przetwarza dane z czujnikow, samochodzik je tylko wysyła
  
-Samochodzik moze mieć ustawiony poziom szybkości, jest to ustawiane przy starcie samochodzika
+Samochodzik moze mieć ustawiony poziom szybkości, jest to ustawiane przy starcie samochodzika,
 pozwala to osobom ostrozniejszym zachować większą kontrolę pojazdu
  
 Samochodzik skręca podobnie do czołgow
