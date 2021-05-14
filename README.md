@@ -1,6 +1,6 @@
 # BTCar
 
-Program do sterowania zdalnego samochodzikiem wyposazonego w 3 czujniki analogowe
+Program do sterowania zdalnego samochodzikiem wyposażonym w 3 czujniki analogowe
 Szczegołowe załozenia konstrukcyjne znajdują sie poniżej
  
 Samochodzik jest sterowany zdalnie przez bluetooth, przez cyfrowe urządzenie streujące.
